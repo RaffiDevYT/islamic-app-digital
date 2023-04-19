@@ -4,11 +4,11 @@ Islamic web application is a website that has several features such as the Quran
 
 ## Project Screenshots:
 
-![ss islamic app 1](https://user-images.githubusercontent.com/54954176/230027238-1f77e60e-81ae-46fe-b914-2a0cdc44ba1a.png)
+![ss islamic app 1](https://cdn.discordapp.com/attachments/1096423550128230551/1098210264589008956/image.png)
 
-![ss islamic app 2](https://user-images.githubusercontent.com/54954176/230027351-0a228365-dcbb-4073-8550-ba9218c1bfd8.png)
+![ss islamic app 2](https://cdn.discordapp.com/attachments/1096423550128230551/1098210384080551987/image.png)
 
-![ss islamic app 3](https://user-images.githubusercontent.com/54954176/230027400-e90fb715-936a-4dea-9c74-6a3152d2ad24.png)
+![ss islamic app 3](https://cdn.discordapp.com/attachments/1096423550128230551/1098210550162391141/image.png)
 
 ## Technology used
 <ul>
